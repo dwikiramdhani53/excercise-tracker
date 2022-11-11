@@ -1,4 +1,4 @@
 /env
 /tracker.db
 
-excercise_tracker\__pycache__
+/excercise_tracker/__pycache__
